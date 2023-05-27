@@ -17,3 +17,5 @@ WHERE Manufacturer LIKE '%Samsung%';
 SELECT *
 FROM phones.new_table
 WHERE ProductName LIKE '%8%';
+
+select * from phones.new_table;
